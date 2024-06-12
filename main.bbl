@@ -1,0 +1,28 @@
+\begin{thebibliography}{1}
+
+\bibitem{ref1}
+Muhammed demir, Aysenur Cankirli, Begum Karabatak, Amir Yavariabdi, Engin
+  Mendi, and Huseyin Kusetogullari.
+\newblock Real-time resistor color code recognition using image processing in
+  mobile devices.
+\newblock 09 2018.
+
+\bibitem{ref2}
+QingE Wu, Zhenggaoyuan Fang, Zhichao Song, Hu~Chen, Yingbo Lu, Lintao Zhou, and
+  Xiaoliang Qian.
+\newblock A color extraction algorithm by segmentation.
+\newblock {\em Scientific Reports}, 13, 12 2023.
+
+\bibitem{ref3}
+Kaggle dataset: Resistors, 2023.
+
+\bibitem{ref4}
+Beginners guide to resistor colour codes, 2023.
+
+\bibitem{ref5}
+Opencv canny edge detector.
+
+\bibitem{ref6}
+Opencv hough line transform.
+
+\end{thebibliography}

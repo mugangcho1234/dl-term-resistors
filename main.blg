@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: unsrt.bst
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Database file #1: references.bib
+Warning--entry type for "ref3" isn't style-file defined
+--line 23 of file references.bib
+Warning--entry type for "ref4" isn't style-file defined
+--line 29 of file references.bib
+Warning--entry type for "ref5" isn't style-file defined
+--line 35 of file references.bib
+Warning--entry type for "ref6" isn't style-file defined
+--line 40 of file references.bib
+Warning--empty booktitle in ref1
+You've used 6 entries,
+            1791 wiz_defined-function locations,
+            465 strings with 4054 characters,
+and the built_in function-call counts, 827 in all, are:
+= -- 46
+> -- 47
+< -- 0
++ -- 19
+- -- 13
+* -- 39
+:= -- 116
+add.period$ -- 10
+call.type$ -- 6
+change.case$ -- 6
+chr.to.int$ -- 0
+cite$ -- 7
+duplicate$ -- 39
+empty$ -- 110
+format.name$ -- 13
+if$ -- 190
+int.to.chr$ -- 0
+int.to.str$ -- 6
+missing$ -- 2
+newline$ -- 25
+num.names$ -- 2
+pop$ -- 37
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 33
+stack$ -- 0
+substring$ -- 0
+swap$ -- 6
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 2
+width$ -- 7
+write$ -- 44
+(There were 5 warnings)
